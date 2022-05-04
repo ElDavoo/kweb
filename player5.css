@@ -1,0 +1,92 @@
+body
+{	
+	background-color: rgb(0, 0, 0);
+	color: rgb(240, 240, 255);
+	font-weight: normal;
+	font-style: normal;
+	font-family: FreeSans;
+	font-size: 14pt;
+	line-height: 130%;
+}
+a:link
+{
+        color: rgb(51, 153, 255);
+	font-weight: bold;
+        text-decoration: underline;
+}
+a:active
+{
+	color: rgb(204, 255, 153);
+	text-decoration: underline overline;
+	font-weight: bold;
+}
+a:visited
+{
+	color: rgb(51, 153, 255);
+	font-weight: bold;
+        text-decoration: underline;
+}
+a:hover
+{
+        color: rgb(153, 204, 102);
+        text-decoration: underline overline;
+	font-weight: bold;
+}
+h3
+{
+	font-weight: bold;
+	font-style: normal;
+	font-family: FreeSans;
+	font-size: 1.6em;
+	line-height: 160%;
+	margin: 0;
+	color: rgb(240, 240, 255);
+}
+h4
+{
+	font-weight: bold;
+	font-family: FreeSans;
+	font-style: normal;
+	font-size: 1.4em;
+	line-height: 150%;
+	margin: 0;
+	color: rgb(240, 240, 255);
+}
+h5
+{
+	font-weight: bold;
+	font-family: FreeSans;
+	font-style: normal;
+	font-size: 1.2em;
+	line-height: 150%;
+	margin: 0;
+	color: rgb(240, 240, 255);
+}
+h6
+{
+	font-weight: bold;
+	font-style: normal;
+	font-family: FreeSans;
+	font-size: 1.1em;
+	line-height: 150%;
+	margin: 0;
+	color: rgb(240, 240, 255);
+}
+hr
+{
+	color: rgb(127, 127, 143);
+}
+button, input, textarea
+{
+	font-style: normal;
+	font-weight: bold;
+	font-family: FreeSans;
+	font-size: 14pt;
+	color: rgb(0, 0, 80);
+}
+
+iframe
+{
+	border-width: 0px;
+
+}
